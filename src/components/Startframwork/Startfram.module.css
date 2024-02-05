@@ -1,0 +1,22 @@
+.clear-fix {
+  clear: both;
+}
+.bgFram {
+  background-color: #1abc9c;
+  height: 100vh;
+  position: relative;
+}
+.bgFram .imgCenter {
+  position: absolute;
+  top: 25%;
+  left: 35%;
+  width: 450px;
+  text-align: center;
+}
+.bgFram .imgCenter img {
+  width: 60%;
+}
+.bgFram .line {
+  height: 4px;
+  width: 80px;
+}

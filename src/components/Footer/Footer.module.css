@@ -1,0 +1,22 @@
+*{
+  list-style: none;
+  box-sizing: border-box;
+}
+.bgFoot {
+  background-color: #2C3E50;
+  padding-block: 20%;
+}
+
+ .bgFoot li {
+  float: left;
+  margin-inline: 5px;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  border: 1px solid #fff;
+  line-height: 35px;
+}
+
+.clear {
+  clear: both;
+}

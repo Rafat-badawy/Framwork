@@ -1,0 +1,29 @@
+.profolio {
+  height: 135vh;
+  background-color: #fff;
+}
+.profolio .center{
+  position: absolute;
+  top: 13%;
+  left: 35%
+}
+.profolio .line {
+  height: 4px;
+  width: 80px;
+}
+ .profolio .container {
+width: 90%;
+height: 100%;
+position: absolute;
+top: 34%;
+left: 5%;
+}
+.layer {
+  background-color: #1abc9ce6;
+  opacity: 0;
+  cursor: pointer;
+  transition: 0.7s opacity;
+}
+.layer:hover{
+  opacity: 0.8;
+}
